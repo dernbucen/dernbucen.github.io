@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dernbucen.github.io/dernbucen.txt.gz
+Sitemap: https://dernbucen.github.io/app/dernbucen.txt.gz
+Sitemap: https://dernbucen.github.io/assets/dernbucen.txt.gz
+Sitemap: https://dernbucen.github.io/css/dernbucen.txt.gz
+Sitemap: https://dernbucen.github.io/includes/dernbucen.txt.gz
+Sitemap: https://dernbucen.github.io/item/dernbucen.txt.gz
+Sitemap: https://dernbucen.github.io/src/dernbucen.txt.gz
